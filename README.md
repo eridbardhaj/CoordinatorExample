@@ -1,2 +1,2 @@
 # CoordinatorExample
-This a simple iOS coordinator example
+This is a simple iOS coordinator example
